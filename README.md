@@ -3,5 +3,5 @@
 
 ## 文章
 
-- [react-native中art的使用](docs/react-native-art)
-- [d3中的比例尺小抄](docs/d3-scale)
+- [react-native中art的使用](docs/react-native-art.md)
+- [d3中的比例尺小抄](docs/d3-scale.md)
