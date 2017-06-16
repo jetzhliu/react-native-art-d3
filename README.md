@@ -5,3 +5,4 @@
 
 - [react-native中art的使用](docs/react-native-art.md)
 - [d3中的比例尺小抄](docs/d3-scale.md)
+- [d3中的插值器小抄](d3-interpolate.md)
