@@ -8,3 +8,8 @@
 - [d3中的插值器小抄](docs/d3-interpolate.md)
 - [art与d3中的path对比](docs/d3-art-path.md)
 - [d3中的图形shape](docs/d3-shape.md)
+
+
+格式化
+
+- [d3中的数字格式化](docs/d3-format.md)
